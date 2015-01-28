@@ -1,0 +1,15 @@
+*.synctex.gz
+*.log
+*.aux
+
+*.ddf
+*.dvv
+
+# Binaries
+*.dvi
+*.pdf
+
+# Misc
+*~
+\#*\#
+.dropbox
